@@ -1,45 +1,48 @@
-# 💼 Hệ Thống Quản Lý Nhân Sự
+# 🚚 Dự Án Phân Tích Hệ Thống Cấp Đơn Hàng Nhập Khẩu Dược Liệu
 
-Đây là một **dự án Phân tích nghiệp vụ (Business Analysis)** được thực hiện như bài tốt nghiệp khóa học BA tại **VTI Academy**, do **Đàm Thị Huyền Trang** thực hiện dưới sự hướng dẫn của **Mai Ngọc Huynh**.
+Dự án này được thực hiện trong khuôn khổ khóa học **Business Analysis** tại **VTI Academy**, do **Đàm Thị Huyền Trang** thực hiện dưới sự hướng dẫn của **Mentor Mai Ngọc Huynh**.
 
-## 📌 Tổng Quan
+## 📌 Giới Thiệu Chung
 
-Dự án tập trung vào việc phân tích và thiết kế một hệ thống phần mềm hỗ trợ **Quản lý nhân sự** cho doanh nghiệp, đặc biệt là các công ty hoạt động trong ngành **dược phẩm**. Mục tiêu là số hóa và tối ưu hóa các quy trình nhân sự như tuyển dụng, quản lý hồ sơ, theo dõi năng lực, đào tạo và hợp đồng lao động.
+Dự án tập trung phân tích và thiết kế hệ thống hỗ trợ quy trình **cấp đơn hàng nhập khẩu dược liệu** tại doanh nghiệp hoạt động trong lĩnh vực **kinh doanh dược phẩm**.
 
-## 🧩 Các Chức Năng Chính
+Hệ thống nhằm cải thiện quy trình xét duyệt đơn hàng, kiểm soát tồn kho, cũng như đảm bảo hoạt động nhập khẩu tuân thủ quy định về mặt pháp lý và nghiệp vụ.
 
-- Quản lý cơ cấu tổ chức và hồ sơ nhân sự  
-- Lập kế hoạch và phê duyệt nhu cầu tuyển dụng  
-- Quản lý ứng viên và nguồn nhân lực tiềm năng  
-- Xây dựng khung năng lực và đào tạo theo vị trí  
-- Theo dõi hợp đồng lao động và quy hoạch nhân sự  
-- Dự toán và kiểm soát ngân sách nhân sự theo phòng ban  
+## ⚙️ Các Chức Năng Chính Của Hệ Thống
 
-## 📊 Tài Liệu Đầu Ra
+- Quản lý danh mục dược liệu và nhà cung cấp
+- Lập và gửi yêu cầu cấp đơn hàng nhập khẩu
+- Xét duyệt đơn hàng theo nhiều cấp (phòng ban, giám đốc…)
+- Theo dõi tiến trình xử lý đơn hàng
+- Kiểm tra tồn kho trước khi lập đơn
+- Quản lý thông tin hợp đồng, vận chuyển và thanh toán
 
-- Tài liệu đặc tả yêu cầu nghiệp vụ (BRD)  
-- Sơ đồ quy trình nghiệp vụ (BPMN)  
-- Use case diagram và mô tả chi tiết use case  
-- Giao diện mẫu (UI mockups) và mô tả trường dữ liệu  
-- Sơ đồ hoạt động (Activity Diagram) và luồng hành vi hệ thống  
+## 📄 Tài Liệu & Kết Quả
+
+- Mô hình nghiệp vụ tổng quan (Business Process Diagram)
+- Biểu đồ Use Case và mô tả từng trường hợp sử dụng
+- Mô tả màn hình chính, các trường dữ liệu và hành vi
+- Sơ đồ hoạt động (Activity Diagram)
+- Bảng phân tích nghiệp vụ chi tiết trong Excel
 
 ## 🧑‍💼 Đối Tượng Sử Dụng
 
-- Trưởng phòng Nhân sự  
-- Trưởng bộ phận và Ban Giám đốc  
-- Chuyên viên tuyển dụng và đào tạo  
+- Bộ phận Mua hàng / Nhập khẩu
+- Phòng Kế hoạch – Điều phối
+- Bộ phận Kho vận và Tài chính
+- Ban Lãnh đạo phê duyệt đơn hàng
 
 ## 🛠 Công Cụ & Phương Pháp
 
-- Microsoft Word & Excel để viết tài liệu  
-- Draw.io / BPMN tools để vẽ sơ đồ  
-- Phân tích nghiệp vụ: Use Case, Activity Diagram, Phỏng vấn và phân tích yêu cầu  
+- Microsoft Word & Excel để trình bày nghiệp vụ và logic dữ liệu
+- BPMN, Use Case và Activity Diagram để mô hình hóa hệ thống
+- Kỹ thuật phỏng vấn và phân tích yêu cầu nghiệp vụ thực tế
 
 ## 📅 Thời Gian Thực Hiện
 
-- Thời gian: Tháng 8 – 9 năm 2024  
-- Khóa học: Business Analysis – VTI Academy  
+- Giai đoạn: Tháng 8 – Tháng 9 năm 2024  
+- Khóa học: Business Analysis – VTI Academy
 
 ---
 
-> 📝 Dự án này thể hiện năng lực phân tích nghiệp vụ, thiết kế hệ thống, giao tiếp với các bên liên quan và mô hình hóa yêu cầu trong lĩnh vực quản lý nhân sự.
+
